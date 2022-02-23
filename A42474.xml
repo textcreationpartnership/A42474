@@ -1,0 +1,395 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Damon a pastoral lamenting the death of that incomparable master of musick, Mr. Henry Purcell, late organist of His Majesty's Chapel and St. Peter's Westminster / by J.G.</title>
+            <author>J. G.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42474</idno>
+            <idno type="STC">Wing G34</idno>
+            <idno type="STC">ESTC R28400</idno>
+            <idno type="EEBO-CITATION">10586003</idno>
+            <idno type="OCLC">ocm 10586003</idno>
+            <idno type="VID">45286</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42474)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45286)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1384:56)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Damon a pastoral lamenting the death of that incomparable master of musick, Mr. Henry Purcell, late organist of His Majesty's Chapel and St. Peter's Westminster / by J.G.</title>
+                  <author>J. G.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Heptinstall, for Henry Playford,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Purcell, Henry, 1659-1695 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45286:1"/>
+            <pb facs="tcp:45286:1" rendition="simple:additions"/>
+            <p>DAMON: A PASTORAL, Lamenting the DEATH Of that Incomparable <hi>MASTER</hi> of <hi>MUSICK,</hi> Mr. Henry Purcell; Late Organiſt of his Majeſty's Cha<g ref="char:EOLhyphen"/>pel, and St. <hi>Peter</hi>'s <hi>Weſtminſter.</hi>
+            </p>
+            <q>
+               <l>— Cui liquidem pater</l>
+               <l>Vocem cum citharâ dedit.</l>
+               <bibl>
+                  <hi>Hor.</hi>
+               </bibl>
+            </q>
+            <q>
+               <hi>Quando ullum invenient parem?</hi> 
+               <bibl>Ibid.</bibl>
+            </q>
+            <p>By <hi>J. G.</hi> M. A.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Heptinſtall,</hi> for <hi>Henry Playford,</hi> in the <hi>Middle-Temple Change,</hi> in <hi>Fleetſtreet.</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:45286:2"/>
+            <pb n="1" facs="tcp:45286:2"/>
+            <head>
+               <hi>DAMON</hi> and <hi>THYRSIS.</hi>
+            </head>
+            <sp>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>BEneath this diſmal Yew with Moſs o'er<g ref="char:EOLhyphen"/>grown,</l>
+                  <l>Where nought but Tears are dropt, and Sighs are blown.</l>
+                  <l>Begirt with balefull <hi>Cypreſs</hi>-Trees around,</l>
+                  <l>Which gloomy Night and black Deſpair ſurround:</l>
+                  <l>Where ne'er Salubrious Herb, or Fragrant Flow'r</l>
+                  <l>Did ſpring and ſmile; where ne'er fell Fertile Show'r;</l>
+                  <l>But th' humid Skies a damp perpetual wear,</l>
+                  <l>And dusky Miſts hang in the lazy Air.</l>
+                  <l>Here, here we'll lie, with <hi>Cypreſs</hi> Chaplets crown'd,</l>
+                  <l>Our Heads reclining on th' unwholſom Ground;</l>
+                  <l>We'll lie and ſing, how our Great <hi>Pan</hi> is dead,</l>
+                  <l>With whom the Soul of Harmony is fled:</l>
+                  <l>In mutual Plaints we'll ſweetly ſigh our Grief;</l>
+                  <l>Ah! Grief which here admits of no Relief:</l>
+                  <l>Come, let's begin and ſing <hi>Arcadia</hi>'s Loſs,</l>
+                  <l>And let <hi>Pan</hi> all our Sighs, and all our Tears engroſs.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Thyr.</speaker>
+               <lg>
+                  <l>Alas! how can we ſing, now He is gone!</l>
+                  <l>He taught us Songs, without Him we learnt none:</l>
+                  <l>The little Birds their chirping Notes have loſt;</l>
+                  <l>Which, imitating Him, they once cou'd boaſt:</l>
+                  <l>No more can <hi>Philomel</hi> with Tunefull Voice</l>
+                  <l>The Gladſom Woods and Ecchoing Hills rejoyce;</l>
+                  <l>Swans only ſing: — and only ſing to die,</l>
+                  <l>Warbling their own, and his ſad Elegy.</l>
+                  <pb n="2" facs="tcp:45286:3"/>
+                  <l>The hooting Owls, thoſe Birds obſcene of Night,</l>
+                  <l>With Screeches ſhape their Inauſpicious Flight</l>
+                  <l>To croaking Ravens: hideous Screams then rend</l>
+                  <l>Th' affrighted Plain, and deadly Fates portend.</l>
+                  <l>But who can ſing in Sweet, Harmonious Lays,</l>
+                  <l>Equal to our departed Maſter's Praiſe?</l>
+                  <l>Cou'd I but pattern his Pathetick Strain,</l>
+                  <l>
+                     <note n="*" place="bottom">
+                        <hi>Words upon Mr.</hi> J. Play<g ref="char:EOLhyphen"/>ford'<hi>s Death, Sett incompa<g ref="char:EOLhyphen"/>rably by Mr.</hi> Purcell.</note> 
+                     <hi>Theron,</hi> belov'd of <hi>Pan</hi> and dear to <hi>Phoebus</hi> Train;</l>
+                  <l>Like Him I'de make each flinty Rock relent,</l>
+                  <l>And the mov'd Stones give their new Paſſion vent.</l>
+                  <l>But I am young in Art, and muſt decline</l>
+                  <l>This Task, which with Reluctance I reſign;</l>
+                  <l>Thou beſt know'ſt how to ſing, and how to mourn;</l>
+                  <l>He gave thee Skill, which to his Praiſe return.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>Hence, hence, <hi>Terpſichore,</hi> hence from my Sight</l>
+                  <l>Be gone, to diſtant Regions wing thy Flight:</l>
+                  <l>Hence with thy jocond Thoughts and jolly Train</l>
+                  <l>Of Fancies, which oft revell'd in my Brain.</l>
+                  <l>On Sighs, then Air, Camelion like I'll live,</l>
+                  <l>And Tears I'll drink, and drink 'em oft to grieve.</l>
+                  <l>Come to my Arms, <hi>Melpomene</hi> I'm bleſt</l>
+                  <l>In thy Embrace, thou Miſtreſs of my Breaſt;</l>
+                  <l>With thee I'll ſigh all Night, and weep all Day,</l>
+                  <l>In ſobbing Accents mourn my Soul away;</l>
+                  <l>Great <hi>Pan</hi>'s no more: let <hi>Arcadia</hi> deplore</l>
+                  <l>Th' Irreparable Loſs; Great <hi>Pan</hi>'s no more.</l>
+                  <l>
+                     <hi>Lament, lament, ye wretched Nymphs and Swains,</hi>
+                  </l>
+                  <l>
+                     <hi>Lament Great</hi> Pan <hi>deceas'd, in Mournfull Strains.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And lo! the Muſes mourn, deep Sables wear,</l>
+                  <l>Untune their Lyres, and dolefull Swains prepare:</l>
+                  <l>The Graces weep, clad in a ruefull Dreſs,</l>
+                  <l>No pleated Veſt is ſeen nor braided Treſs:</l>
+                  <pb n="4" facs="tcp:45286:3"/>
+                  <l>Wild are their Looks, diſhevell'd is their Hair,</l>
+                  <l>And their looſe Garments ruffle in the Air.</l>
+                  <l>
+                     <hi>Venus</hi> with piteous Wailing vents a Groan,</l>
+                  <l>Her Doves ſit by, murmur, and with her moan:</l>
+                  <l>
+                     <hi>Cupid</hi> unbraces too his little Bow,</l>
+                  <l>And flings it wide, his Shafts are uſeleſs now.</l>
+                  <l>The rugged Satyrs full of Grief forbear</l>
+                  <l>Each Antick Geſture and each Comick Jeer;</l>
+                  <l>The <hi>Dryads,</hi> with the <hi>Sylvans</hi> and the <hi>Fauns,</hi>
+                  </l>
+                  <l>No more in Dances trip it o'er the Lawns;</l>
+                  <l>All cry, <hi>Pan</hi>'s gone to the dark Shades below,</l>
+                  <l>Condoling Eccho ſighing, anſwers,— Oh!</l>
+                  <l>
+                     <hi>Lament, lament, ye wretched Nymphs and Swains,</hi>
+                  </l>
+                  <l>
+                     <hi>Lament, Great</hi> Pan <hi>deceas'd, in Mournfull Strains.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Never was Earth bleſt with ſuch Heav'nly Sound,</l>
+                  <l>Never were Swains in ſuch deep Tranſports drown'd,</l>
+                  <l>As when the Skillfull Shepherd touch'd his Reed,</l>
+                  <l>Others which far, did very far exceed:</l>
+                  <l>Ecſtatick Raptures fill'd our raviſh'd Mind,</l>
+                  <l>So loſt, that we our ſelves cou'd ſcarcely find;</l>
+                  <l>We ſunk beneath th' unweildy Load of Bliſs,</l>
+                  <l>And fainted: but not thought the Charm amiſs.</l>
+                  <l>As Infant-Violets and the op'ning Roſe</l>
+                  <l>To court our ſmelling fragrant Sweets diſcloſe;</l>
+                  <l>So did his Lays melodious Sweets diſpenſe,</l>
+                  <l>To charm the Ear and captivate the Sence.</l>
+                  <l>His Myſtick Airs ſtrange Pleaſures cou'd impart,</l>
+                  <l>Cou'd raiſe the Soul, as well as move the Heart.</l>
+                  <l>We ſaw how o'er the ſtops his Fingers bound,</l>
+                  <l>And bleſt the Skill, which we ſo wondrous found;</l>
+                  <l>Divine he ſeem'd,— or ſomething more than Man,</l>
+                  <l>But now he's leſs, contracted to a Span.</l>
+                  <l>
+                     <hi>Lament, lament, ye wretched Nymphs and Swains,</hi>
+                  </l>
+                  <l>
+                     <hi>Lament, Great</hi> Pan <hi>deceas'd, in Mournfull Strains.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="4" facs="tcp:45286:4"/>
+                  <l>Dull <hi>Moevius</hi> Sonnets how did he refine!</l>
+                  <l>To pleaſing Notes, harſh, grating Numbers joyn!</l>
+                  <l>He ſmooth'd our words, and fill'd our uncouth Tongue,</l>
+                  <l>And poliſh'd well each Line of ev'ry Song.</l>
+                  <l>Whene'er the Artfull Shepherd ſat and play'd,</l>
+                  <l>The mute Creation hark'd, his Charm obey'd:</l>
+                  <l>The lowing Herds to hear him wond'ring ſtood,</l>
+                  <l>And bleating Flocks, regardleſs of their Food.</l>
+                  <l>The Feather'd Choir deſcending throng'd each Bow,</l>
+                  <l>Then mounting chirp'd, and try'd ſuch Notes to ſhow;</l>
+                  <l>The Finny People leap'd above the Flood,</l>
+                  <l>To view what 'twas, that their Attention woo'd:</l>
+                  <l>Impatient of the Bliſs, they reach the Side,</l>
+                  <l>Aſſiſted by the timely flowing Tide;</l>
+                  <l>Mindfull of Sounds they never heard before,</l>
+                  <l>And heedleſs of the Ebb, they're left on Shore.</l>
+                  <l>Whene'er the mighty Songſter rais'd his Voice,</l>
+                  <l>He check'd each murmur, ſtill'd each louder Noiſe:</l>
+                  <l>The foaming Surges did forget to roar,</l>
+                  <l>And raging Billows durſt not brave the Shore.</l>
+                  <l>He ſmooth'd the Brow of ev'ry wrinkled Stream,</l>
+                  <l>And bluſt'ring Winds hung lull'd as in a Dream:</l>
+                  <l>No gentle Breeze cou'd riſe to lay a Sweat,</l>
+                  <l>No breath of Air cou'd fan the ſultry Heat;</l>
+                  <l>Whole Nature bow'd, own'd his miraculous Art,</l>
+                  <l>To which ſhe largely did her ſelf impart.</l>
+                  <l>Thus pow'rfull were His Songs; —but he's no more,</l>
+                  <l>Ah! rigid Fate! in vain we thee implore.</l>
+                  <l>
+                     <hi>Lament, lament, ye wretched Nymphs and Swains,</hi>
+                  </l>
+                  <l>
+                     <hi>Lament, Great</hi> Pan <hi>deceas'd, in Mournfull Strains.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>For ever ceaſt are now thoſe lightſome Airs,</l>
+                  <l>Which brisk'd our Spirits thro' our raptur'd Ears:</l>
+                  <pb n="5" facs="tcp:45286:4"/>
+                  <l>For ever ceaſt are now thoſe tender Lays,</l>
+                  <l>Which loves ſweet Paſſion mov'd ten thouſand ways</l>
+                  <l>Loſt is that vaſt Exceſs of Tunefull Skill,</l>
+                  <l>That cou'd command the ſtubborn Notes at will:</l>
+                  <l>And — can I ſpeak it? — Oh! — the beſt of Swains</l>
+                  <l>Is loſt, that ever grac'd <hi>Arcadia</hi>'s Plains;</l>
+                  <l>
+                     <note n="*" place="bottom">
+                        <hi>An admira<g ref="char:EOLhyphen"/>ble Song by Mr.</hi> Purcell.</note> 
+                     <hi>Loſt is my Quiet,</hi> now he reſt has found,</l>
+                  <l>When ſhall we hear ſuch an inchanting Sound?</l>
+                  <l>Ah! He was ſweet as Love, Ah! He was all</l>
+                  <l>That we can Charming or Harmonious call.</l>
+                  <l>Sweetneſs Divine bloom'd in His cheerfull Face,</l>
+                  <l>His Looks beſpoke Him bleſt with ev'ry Grace;</l>
+                  <l>He was, my <hi>Thyrſis,</hi> more than I can ſay,</l>
+                  <l>In His Encomiums I cou'd waſte the Day:</l>
+                  <l>Great <hi>Orpheus</hi> Lyre charm'd fair <hi>Euridice</hi>
+                  </l>
+                  <l>To th' Verge of Light, Life and Felicity:</l>
+                  <l>But who can from the Shades our <hi>Orpheus</hi> call?</l>
+                  <l>Nought cou'd but His own moving Notes prevail;</l>
+                  <l>But ſtiff thoſe Fingers are, this lower World</l>
+                  <l>Which mov'd, and into ſweet Confuſion hurl'd:</l>
+                  <l>For ever is that well tun'd, hallow'd Breath,</l>
+                  <l>Which gave Swains Life, ſtopt by malignant Death;</l>
+                  <l>All cold and breathleſs on the Turf he lies,</l>
+                  <l>Eternal Darkneſs hath ſeal'd up his Eyes.</l>
+                  <l>
+                     <hi>Lament, lament, ye wretched Nymphs and Swains,</hi>
+                  </l>
+                  <l>
+                     <hi>Lament Great</hi> Pan <hi>deceas'd, in Mournfull Strains.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Come all ye Shepherds, with ſad Dirges, come,</l>
+                  <l>And ſing alternately around His Tomb;</l>
+                  <l>In dolefull Sounds vent your enlarged Woes,</l>
+                  <l>And let Sighs intermix'd ſhort Reſts compoſe:</l>
+                  <l>While freſheſt Greens your Shepherdeſſes crop,</l>
+                  <l>Which Honey Sweat and <hi>Nectar</hi> Juices drop,</l>
+                  <pb n="6" facs="tcp:45286:5"/>
+                  <l>With od'rous Herbs His Sepulchre to ſtrow;</l>
+                  <l>Bring Flow'rs, ye Nymphs, and Garlands to beſtow.</l>
+                  <l>Ye Muſes, deck with Elegies His Hearſe,</l>
+                  <l>Embalm His Name with ever-living Verſe:</l>
+                  <l>And when ſome faded Flow'r all pale appears,</l>
+                  <l>Inſtill new Verdure with a Show'r of Tears.</l>
+                  <l>
+                     <hi>Come all lament, lament in Mournfull Strains,</hi>
+                  </l>
+                  <l>
+                     <hi>Great</hi> Pan <hi>deceas'd, late Glory of theſe Plains.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But hark!—</l>
+                  <l>Strange warbling Notes my Ears with pleaſure wound;</l>
+                  <l>Hark! how the Spheres melodiouſly reſound!</l>
+                  <l>Lo! Cherubs come to convoy Him to go,</l>
+                  <l>And ſing thoſe ſtrains above, he play'd below:</l>
+                  <l>Seraphl, t'aid his new Birth, deſcend and ſing,</l>
+                  <l>So tunefuls Birds do hatch the pregnant Spring.</l>
+                  <l>And lo! Heav'ns <hi>Terras</hi> ſacred Miniſtrels throng,</l>
+                  <l>Some tune their Lyres, and ſome prepare a Song:</l>
+                  <l>And now with Golden Harps and Hymns Divine</l>
+                  <l>They mingle all, and in full Conſort joyn:</l>
+                  <l>Myriads of Angels with Immortal State,</l>
+                  <l>On mighty <hi>Pan</hi> as His Retinue wait;</l>
+                  <l>Upwards he ſoars, wing'd with Harmonious Fire,</l>
+                  <l>And Earthly Joys compleats, and the Caeleſtial Quire.</l>
+               </lg>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Pag. 2. lin. 20. for <hi>then</hi> read <hi>thin.</hi> L. 25. for <hi>Arcadia</hi> r. <hi>Arcadie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> L. 30. for <hi>Swains</hi> r. <hi>Strains.</hi>
+            </p>
+            <pb facs="tcp:45286:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
